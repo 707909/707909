@@ -10,7 +10,7 @@ I’m Adellia, a Software Engineering student. I build visually appealing,
 responsive websites and develop cross-platform mobile applications. Combining clean code with 
 great user experiences. 💖💫
 
----
+--
 
 ###  💻 Technologies I Use:
 
