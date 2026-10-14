@@ -23,4 +23,4 @@ great user experiences. 💖💫
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Lunacy Badge](https://img.shields.io/badge/Lunacy-179DE3?logo=lunacy&logoColor=fff&style=for-the-badge)
-![Python Badge](https://shields.io)
+
